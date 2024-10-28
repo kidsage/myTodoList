@@ -1,6 +1,8 @@
 # User Custom
 .vscode/
-poetry.lock
 .env
+__pycache__/
+migrations/
 
+poetry.lock
 db.sqlite3
