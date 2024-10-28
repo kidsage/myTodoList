@@ -1,0 +1,6 @@
+# User Custom
+.vscode/
+poetry.lock
+.env
+
+db.sqlite3
